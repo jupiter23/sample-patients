@@ -1,5 +1,5 @@
 gestage	city	apartment	street	cell	dob	GENDER	region	initial	PID	YOB	pcode	RACE	gender	home	country	email	lname	fname
-30.6	Sand Springs	Apt 21	80 Mill St		2007-07-15	M	OK	H	2004454	2008	74063	White	male		USA	kevin.lee@example.com	Lee	Kevin
+30.6	Sand Springs	Apt 21	80 Mill St		2007-07-15	M	OK	H	2004454	2008	74063	White	male		USA	kevin.lee@example.com	Lee	KevinFNORD
 45.2	Tulsa		27 South Ave	800-471-8810	2006-11-22	F	OK	N	1614502	2007	74126	White	female	800-651-2242	USA	susan.williams@example.com	Williams	Susan
 	Tulsa		52 Highland St		2000-12-27	F	OK	A	1482713	2001	74116	Inconsistent Data	female	800-576-9327	USA	susan.clark@example.com	Clark	Susan
 36.7	Tulsa	Apt 9	53 Sunset Ave	800-277-1993	2003-12-14	M	OK	P	2080416	2004	74126	Inconsistent Data	male		USA	joseph.shaw@example.com	Shaw	Joseph
