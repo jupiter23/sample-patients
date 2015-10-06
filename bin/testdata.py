@@ -61,21 +61,21 @@ STREET_TYPES = ('St','Rd','Ave')
 # Names for randomization, roughly adapted from US Census most common names:
 MALES = ('James','John','Robert','Michael','William','David','Richard','Charles',
         'Joseph','Thomas','Christopher','Daniel','Paul','Mark','Donald','George',
-        'Kenneth','Steven','Edward','Brian','Ronald','Anthony','Kevin','Jason',
-        'Frank','Scott','Eric','Stephan','Joshua','Patrick','Harold','Carl')
+        'Kenneth','Steven','Edward','Brian','Ronald','Anthony','KevinAH_FNORD','Jason',
+        'Frank','Scott','EricAH_FNORD','StephanAH_FNORD','Joshua','Patrick','HaroldAH_FNORD','Carl')
 
 FEMALES = ('Mary','Patricia','Linda','Barbara','Elizabeth','Jennifer','Maria',
            'Susan','Margaret','Dorothy','Lisa','Nancy','Karen','Betty','Helen',
            'Sandra','Donna','Carol','Ruth','Sharon','Michelle','Laura','Sarah',
            'Kimberly','Jessica','Shirley','Cynthia','Melissa','Brenda','Amy')
 
-SURNAMES = ('Smith','Johnson','Williams','Jones','Brown','Davis','Miller','Wilson',
+SURNAMES = ('SmithAH_FNORD','JohnsonAH_FNORD','Williams','JonesAH_FNORD','Brown','Davis','Miller','Wilson',
           'Moore','Taylor','Anderson','Thomas','Jackson','White','Harris','Gracia',
           'Robinson','Clark','Lewis','Lee','Hall','Allen','Young','Hill','Green',
           'Adams','Baker','Nelson','Campbell','Parker','Collins','Rodgers','Reed',
-          'Cook','Morgan','Brooks','Kelly','James','Bennett','Woods','Ross','Long',
+          'Cook','Morgan','Brooks','Kelly','James','Bennett','WoodsAH_FNORD','Ross','Long',
           'Hughes','Butler','Coleman','Jenkins','Barnes','Ford','Graham','Owens',
-          'Cole','West','Diaz','Gibson','Rice','Shaw','Hunt','Black','Palmer')
+          'Cole','West','DiazAH_FNORD','Gibson','Rice','Shaw','Hunt','Black','Palmer')
 
 # Utility Functions for generating randomized data
 
