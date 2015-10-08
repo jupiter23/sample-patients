@@ -1,0 +1,20 @@
+{
+  "resource": {
+    "resourceType": "Patient",
+    "id": "fnord",
+    "name": [{
+      "family": ["Bob"],
+      "given": ["Dobbs"]
+    }],
+    "gender": "female",
+    "birthDate": "1937-02-07",
+    "address": [{
+      "use": "home",
+      "line": ["One Park Plaza"],
+      "city": "Nashville",
+      "postalCode": "37203",
+      "state": "TN",
+      "country": "USA"
+    }]
+  }
+}
